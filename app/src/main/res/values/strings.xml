@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="enter_departure_airport">Введите аэропорт вылета</string>
+    <string name="flight_search">Flight Search</string>
+</resources>
